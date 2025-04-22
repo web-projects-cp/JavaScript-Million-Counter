@@ -2,7 +2,9 @@
 
 A simple web application that counts and displays numbers from 1 to 1,000,000 in the console and on the webpage.
 
-![Demo Screenshot](https://via.placeholder.com/600x400?text=Number+Counter+Demo)
+## Screenshot
+
+![Screenshot](https://github.com/web-projects-cp/JavaScript-Million-Counter/blob/main/screenshot1.png)
 
 ## Features
 - Real-time counting from 1 to 1,000,000
