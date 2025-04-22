@@ -6,7 +6,8 @@ A simple web application that counts and displays numbers from 1 to 1,000,000 in
 
 ![Screenshot](https://github.com/web-projects-cp/JavaScript-Million-Counter/blob/main/screenshot1.png)
 
-## ![DEMO](https://web-projects-cp.github.io/JavaScript-Million-Counter/)
+
+## [DEMO](https://web-projects-cp.github.io/JavaScript-Million-Counter/)
 
 ## Features
 - Real-time counting from 1 to 1,000,000
